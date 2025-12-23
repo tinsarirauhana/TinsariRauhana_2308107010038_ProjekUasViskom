@@ -7,11 +7,6 @@ PINKY PONG EXTREME adalah permainan Pong berbasis Computer Vision
 yang dikendalikan menggunakan gesture tangan secara real-time
 (open hand dan fist) melalui webcam dengan OpenCV.
 
-## Teknologi
-- Python
-- OpenCV
-- NumPy
-
 ## Cara Menjalankan
 1. Install dependensi:
    pip install opencv-python numpy
